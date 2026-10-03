@@ -1,0 +1,17 @@
+{
+  "name": "Log Insights",
+  "skills": "Structured log ingestion, aggregation, observability",
+  "entity": "event",
+  "fields": [
+    "service",
+    "level",
+    "message"
+  ],
+  "example": {
+    "service": "checkout",
+    "level": "ERROR",
+    "message": "Payment timeout"
+  },
+  "kind": "logs",
+  "port": 8106
+}
