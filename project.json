@@ -1,5 +1,5 @@
 {
-  "name": "Log Insights",
+  "name": "Observability Hub",
   "skills": "Structured log ingestion, aggregation, observability",
   "entity": "event",
   "fields": [
@@ -25,5 +25,7 @@
     "Docker",
     "Kubernetes",
     "GitHub Actions"
-  ]
+  ],
+  "slug": "observability-hub",
+  "engineering_version": "3.0.0"
 }
