@@ -13,5 +13,17 @@
     "message": "Payment timeout"
   },
   "kind": "logs",
-  "port": 8106
+  "port": 8106,
+  "description": "Find service errors through searchable structured events.",
+  "accent": "#64748b",
+  "stack": [
+    "Python",
+    "FastAPI",
+    "Angular",
+    "TypeScript",
+    "SQLite",
+    "Docker",
+    "Kubernetes",
+    "GitHub Actions"
+  ]
 }
